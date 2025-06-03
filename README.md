@@ -3,6 +3,8 @@
 This is my implementation for the codecrafters' Create your own shell challenge so far (I didn't peek at the solutions I promise ._.),
 it's still barebones, the source is messy and lasks proper testing but can easilly be improved.
 
+Don't use this BTW, it's very unsafe..
+
 I really enjoyed this by the way :)
 
 # Features:
@@ -17,7 +19,7 @@ I really enjoyed this by the way :)
 # Todo:
 - Fix the cursor movement
 - Add proper configuration
-- Add inlint completions
+- Add inline completions
 - Finish the history implementations
 - Create a proper Lexical analyzer
 - Crease a proper interpreter
