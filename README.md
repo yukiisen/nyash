@@ -1,9 +1,9 @@
-[![progress-banner](https://backend.codecrafters.io/progress/shell/bcb2ac1e-5793-4748-a292-5fb9365a859f)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
+[![progress-banner](https://backend.codecrafters.io/progress/shell/bcb2ac1e-5793-4748-a292-5fb9365a859f)]()
 
-This is a starting point for Rust solutions to the
-["Build Your Own Shell" Challenge](https://app.codecrafters.io/courses/shell/overview).
+This is my implementation for the codecrafters' Create your own shell challenge so far (I didn't peek at the solutions I promise ._.),
+it's still barebones, the source is messy and lasks proper testing but can easilly be improved.
 
-This is my implementation for the challenge so far (I didn't peek at the solutions I promise ._.)
+I really enjoyed this by the way :)
 
 # Features:
 - Bash like tab completions
