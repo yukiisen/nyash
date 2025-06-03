@@ -9,7 +9,7 @@ I really enjoyed this by the way :)
 
 # Features:
 - Bash like tab completions
-- Hard configuration
+- Hardcoded configuration
 - History builtin (incomplete since they added the challenge recently)
 - Double Or more Pipes (Double pipes probably need some check)
 - FileDescriptor (stdin, stdout, stderr) redirect.
